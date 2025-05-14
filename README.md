@@ -90,18 +90,21 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=HenriqueTesla&show_icons=true&theme=tokyonight&locale=pt-br" 
-/>  
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTesla&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />  
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=HenriqueTesla&show_icons=true&theme=tokyonight&locale=pt-br" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTesla&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
