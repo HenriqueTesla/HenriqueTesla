@@ -3,5 +3,5 @@ Desde o ensino técnico, venho me dedicando ao desenvolvimento de soluções cri
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | UniBH  
 💼 Técnico em Programação Mobile | COTEMIG  
-📍 Belo Horizonte - MG  
+📍  Belo Horizonte - MG  
 🛠️ Conhecimentos em: HTML, CSS, JavaScript, React, PHP, Laravel, SQL, C#, Swift, Kotlin.    
