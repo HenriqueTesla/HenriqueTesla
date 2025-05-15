@@ -2,11 +2,13 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Meu nome é Henrique, tenho 18 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio técnico no Colégio COTEMIG, com formação em Programação Mobile, e atualmente curso Análise e Desenvolvimento de Sistemas na UniBH.  
+Olá! Meu nome é Henrique Paulino, tenho 18 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio técnico no Colégio COTEMIG, com formação em Programação Mobile, e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
 
-Sou apaixonado por tecnologia e estou sempre em busca de aprender e compartilhar conhecimento. Tenho experiência com diversas linguagens e ferramentas, como HTML, CSS, JavaScript, React, PHP, Laravel, SQL, C#, Swift e Kotlin.  
+Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e compartilhar conhecimento. Tenho experiência com diversas linguagens e ferramentas, incluindo HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, SQL (MySQL e Oracle), C#, Swift, Kotlin, além de conhecimentos em Ruby, Ruby on Rails e Vue.js, adquiridos durante meu estágio na Alpop - Aluguel Popular.
 
-Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas redes para acompanhar novidades do mundo da programação e da tecnologia. Meu objetivo é evoluir constantemente e contribuir com soluções inovadoras que façam a diferença.  
+Atuei também como cofundador da startup Transporte Responsável Escolar Móvel, onde desenvolvi soluções utilizando React Native e pratiquei Inglês para negócios em contextos reais.
+
+Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovações do mundo da programação. Meu objetivo é crescer continuamente na área da tecnologia e contribuir com soluções criativas e eficazes que gerem impacto positivo na vida das pessoas. 
 
 ---
 
@@ -14,7 +16,7 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -23,7 +25,7 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -31,14 +33,14 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
+    alt="TypeScript" 
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -46,7 +48,55 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 />
 <img 
     align="left" 
-    alt="React"
+    alt="PHP" 
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -54,35 +104,59 @@ Gosto de criar projetos práticos e explorar novas ideias, e utilizo minhas rede
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Laravel" 
-    title="Laravel"
+    title="Laravel" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
+    alt="Ruby on Rails" 
+    title="Ruby on Rails" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
-    title="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="GitHub" 
+    title="GitHub" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <br/>
