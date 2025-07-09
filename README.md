@@ -147,6 +147,7 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 <br/>
 
 ### 📊 Estatísticas
+
 ---
 
 <table>
