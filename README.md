@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Meu nome é Henrique Paulino, tenho 18 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio técnico no Colégio COTEMIG, com formação em Programação Mobile, e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
+Olá! Meu nome é Henrique Paulino, tenho 19 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio técnico no Colégio COTEMIG, com formação em Programação Mobile, e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
 
 Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e compartilhar conhecimento. Tenho experiência com diversas linguagens e ferramentas, incluindo HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, SQL (MySQL e Oracle), C#, Swift, Kotlin, além de conhecimentos em Ruby, Ruby on Rails e Vue.js, adquiridos durante meu estágio na Alpop - Aluguel Popular.
 
