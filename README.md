@@ -159,7 +159,7 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
         src="https://github-readme-stats.vercel.app/api?username=HenriqueTesla&show_icons=true&theme=tokyonight&locale=pt-br" 
       />
     </td>
-    <td width="30"></td> <!-- Espaço entre os blocos -->
+    <td width="30"></td>
     <td align="center">
       <img 
         alt="Top Languages" 
