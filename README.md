@@ -10,7 +10,7 @@ Atuei também como cofundador da startup Transporte Responsável Escolar Móvel,
 
 Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovações do mundo da programação. Meu objetivo é crescer continuamente na área da tecnologia e contribuir com soluções criativas e eficazes que gerem impacto positivo na vida das pessoas. 
 
----
+--- 
 
 ### 🤖 Linguagens e Tecnologias
 
