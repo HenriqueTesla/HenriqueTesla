@@ -146,26 +146,11 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=HenriqueTesla&show_icons=true&theme=tokyonight&locale=pt-br" 
-      />
-    </td>
-    <td width="30"></td>
-    <td align="center">
-      <img 
-        alt="Top Languages" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTesla&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+## 📌 Destaques
+- 💻 Desenvolvedor Back-End com foco em aplicações web e mobile
+- 🚀 Experiência com Ruby on Rails, Laravel e React Native
+- 🧠 Interesse contínuo em arquitetura, boas práticas e novas tecnologias
+- 🤝 Experiência em startups e ambientes colaborativos
+
