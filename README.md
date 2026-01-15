@@ -147,10 +147,3 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 <br/>
 
 ---
-
-## 📌 Destaques
-- 💻 Desenvolvedor Back-End com foco em aplicações web e mobile
-- 🚀 Experiência com Ruby on Rails, Laravel e React Native
-- 🧠 Interesse contínuo em arquitetura, boas práticas e novas tecnologias
-- 🤝 Experiência em startups e ambientes colaborativos
-
