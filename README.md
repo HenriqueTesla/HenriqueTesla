@@ -147,3 +147,23 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 <br/>
 
 ---
+
+<div align="center">
+<table align="center">
+<tr>
+
+<td align="center" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=360&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo" />
+</td>
+
+<td align="center" valign="middle">
+<img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1vcHIydnhqdWtidzVzdWx4c3VsaDd3cG5rejdnMjgwbWNrc3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" />
+</td>
+
+<td align="center" valign="middle">
+<img src="https://komarev.com/ghpvc/?username=HenriqueTesla&color=blueviolet&style=flat-square" />
+</td>
+
+</tr>
+</table>
+</div>
