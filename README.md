@@ -149,19 +149,25 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 ---
 
 <div align="center">
-<table align="center">
-<tr>
+  <table align="center" width="100%" style="max-width:100%;">
+    <tr>
 
-<td align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=360&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo" />
+ <td align="center" valign="middle" width="40%">
+<img 
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo" 
+/>
 </td>
 
-<td align="center" valign="middle">
-<img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1vcHIydnhqdWtidzVzdWx4c3VsaDd3cG5rejdnMjgwbWNrc3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" />
+<td align="center" valign="middle" width="30%">
+<img height="180" 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1vcHIydnhqdWtidzVzdWx4c3VsaDd3cG5rejdnMjgwbWNrc3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" 
+/>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://komarev.com/ghpvc/?username=HenriqueTesla&color=blueviolet&style=flat-square" />
+<td align="center" valign="middle" width="30%">
+<img 
+src="https://komarev.com/ghpvc/?username=HenriqueTesla&color=blueviolet&style=flat-square" 
+/>
 </td>
 
 </tr>
