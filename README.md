@@ -153,7 +153,7 @@ Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovaç
 <tr>
 
 <td align="center" valign="middle" width="40%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Back+End;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Back-End;Sempre+aprendendo+algo+novo" />
 </td>
 
 <td align="center" valign="middle" width="30%">
