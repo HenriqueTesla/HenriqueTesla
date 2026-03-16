@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Meu nome é Henrique Paulino, tenho 19 anos e sou natural de Belo Horizonte, Minas Gerais. Concluí o ensino médio técnico no Colégio COTEMIG, com formação em Programação Mobile, e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
+Meu nome é Henrique Paulino, tenho 19 anos e sou formado em Programação Mobile pelo Colégio COTEMIG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
 
-Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e compartilhar conhecimento. Tenho experiência com diversas linguagens e ferramentas, incluindo HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, SQL (MySQL e Oracle), C#, Swift, Kotlin, além de conhecimentos em Ruby, Ruby on Rails e Vue.js, adquiridos durante meu estágio na Alpop - Aluguel Popular.
+Durante minha trajetória acadêmica e experiências práticas, desenvolvi habilidades em diversas tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, SQL (MySQL e Oracle), C#, PHP, Laravel, React Native, Ruby, Ruby on Rails, Vue.js, Swift e Kotlin. Também possuo familiaridade com Java, adquirida no ensino superior, e com ferramentas como GitHub e Microsoft Office.
 
-Atuei também como cofundador da startup Transporte Responsável Escolar Móvel, onde desenvolvi soluções utilizando React Native e pratiquei Inglês para negócios em contextos reais.
+Atuei como cofundador na Transporte Responsável Escolar Móvel, onde tive a oportunidade de aplicar conhecimentos em React Native e Inglês para negócios, e como estagiário na Alpop - Aluguel Popular, desenvolvendo com Ruby, Ruby on Rails e Vue.js.
 
-Gosto de criar projetos práticos, explorar novas ideias e acompanhar as inovações do mundo da programação. Meu objetivo é crescer continuamente na área da tecnologia e contribuir com soluções criativas e eficazes que gerem impacto positivo na vida das pessoas. 
+Sou um profissional motivado, com grande interesse em aprendizado contínuo e na exploração de novas áreas no campo da tecnologia. Estou sempre em busca de oportunidades desafiadoras onde eu possa aplicar meus conhecimentos, colaborar com equipes inovadoras e crescer profissionalmente.
 
 --- 
 
