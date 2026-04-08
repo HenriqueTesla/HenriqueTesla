@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Back-End`**
 
-Meu nome é Henrique Paulino, tenho 19 anos e sou formado em Programação Mobile pelo Colégio COTEMIG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Belo Horizonte (UniBH).
+Sou desenvolvedor de software com sólida formação técnica em Programação Mobile pelo Colégio COTEMIG e graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Belo Horizonte (UniBH). Atualmente, atuo como Desenvolvedor Fullstack Jr na Delinea EdTech, onde integro equipes de alta performance no desenvolvimento de soluções tecnológicas robustas voltadas ao setor de educação.
 
-Durante minha trajetória acadêmica e experiências práticas, desenvolvi habilidades em diversas tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, SQL (MySQL e Oracle), C#, PHP, Laravel, React Native, Ruby, Ruby on Rails, Vue.js, Swift e Kotlin. Também possuo familiaridade com Java, adquirida no ensino superior, e com ferramentas como GitHub e Microsoft Office.
+Minha trajetória profissional é pautada na construção de ecossistemas digitais complexos, com ênfase em arquiteturas Mobile (Nativas e Híbridas) e sistemas Web Full Stack escaláveis. Domino a integração de interfaces modernas a regras de negócio eficientes, garantindo sempre a performance e a qualidade técnica em todas as camadas de entrega das aplicações desenvolvidas.
 
-Atuei como cofundador na Transporte Responsável Escolar Móvel, onde tive a oportunidade de aplicar conhecimentos em React Native e Inglês para negócios, e como estagiário na Alpop - Aluguel Popular, desenvolvendo com Ruby, Ruby on Rails e Vue.js.
+Como cofundador da Transporte Responsável Escolar Móvel, desenvolvi uma visão estratégica de produto e competências em negociações internacionais em língua inglesa. Complementarmente, minha experiência na startup Alpop (Aluguel Popular) consolidou habilidades em arquitetura ágil e na manutenção de sistemas de alto fluxo, focando em soluções que geram impacto real.
 
-Sou um profissional motivado, com grande interesse em aprendizado contínuo e na exploração de novas áreas no campo da tecnologia. Estou sempre em busca de oportunidades desafiadoras onde eu possa aplicar meus conhecimentos, colaborar com equipes inovadoras e crescer profissionalmente.
+Sou um pesquisador entusiasta de novas tecnologias e metodologias de desenvolvimento de software, buscando constantemente a excelência técnica através do aprendizado contínuo. Foco na aplicação prática da inovação para a geração de valor em projetos desafiadores, colaborando com times inovadores para transformar requisitos complexos em produtos digitais de alto nível.
 
 --- 
 
