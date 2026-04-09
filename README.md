@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou desenvolvedor de software com sólida formação técnica em Programação Mobile pelo Colégio COTEMIG e graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Belo Horizonte (UniBH). Atualmente, atuo como Desenvolvedor Fullstack Jr na Delinea EdTech, onde integro equipes de alta performance no desenvolvimento de soluções tecnológicas robustas voltadas ao setor de educação.
+Sou desenvolvedor de software com sólida formação técnica em Programação Mobile pelo Colégio COTEMIG e graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Belo Horizonte (UniBH). Atualmente, atuo como Desenvolvedor Fullstack Jr na Delinea EdTech, onde integro equipes de alta performance no desenvolvimento de soluções tecnológicas voltadas ao setor de educação.
 
 Minha trajetória profissional é pautada na construção de ecossistemas digitais complexos, com ênfase em arquiteturas Mobile (Nativas e Híbridas) e sistemas Web Full Stack escaláveis. Domino a integração de interfaces modernas a regras de negócio eficientes, garantindo sempre a performance e a qualidade técnica em todas as camadas de entrega das aplicações desenvolvidas.
 
